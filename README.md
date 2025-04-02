@@ -1,4 +1,4 @@
-# myProjectt
+# myProject
 this is test repo
 this repo nye yosra 
-<h1> heollo </h1>
+<h1> hello </h1>
